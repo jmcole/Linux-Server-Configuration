@@ -21,7 +21,7 @@ URL - http://ec2-18-220-144-46.us-east-2.compute.amazonaws.com
 
 ## Summary
 
-Resources used for initial setup of server - [Digital Ocean](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-12-04#step-one—root-login)
+The outline of this project and basic steps for implementation were given by Udacity [here](https://classroom.udacity.com/nanodegrees/nd004/parts/ab002e9a-b26c-43a4-8460-dc4c4b11c379/modules/357367901175462/lessons/3573679011239847/concepts/ce268cfe-99ec-49be-9326-876375f89a22). 
 
 ### User Management
 
